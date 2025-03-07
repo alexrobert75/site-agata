@@ -567,3 +567,19 @@ footer {
         margin-bottom: 0.5em;
     }
 }
+
+
+
+@media (max-width: 650px) {
+
+    .prices-zone {
+        width: 100%;
+    }
+}
+
+@media (max-width: 550px) {
+
+    .price-card {
+        width: 70%;
+    }
+}
